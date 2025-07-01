@@ -24,7 +24,6 @@
     </style>
 </head>
 <body class="bg-donut-pattern min-h-screen font-sans text-gray-800">
-    <!-- Navbar -->
     <header class="sticky top-0 bg-white/60 backdrop-blur-md border-b border-pink-200 z-50 shadow-md">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex justify-between items-center">
             <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-pink-600">🍩 Donut</h1>
