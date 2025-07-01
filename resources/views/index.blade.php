@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Donut Heaven</title>
+    <title>Donut</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -26,7 +26,7 @@
     <!-- Navbar -->
     <header class="sticky top-0 bg-white/60 backdrop-blur-md border-b border-pink-200 z-50 shadow-md">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex justify-between items-center">
-            <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-pink-600">🍩 Donut Heaven</h1>
+            <h1 class="text-xl sm:text-2xl md:text-3xl font-bold text-pink-600">🍩 Donut</h1>
         </div>
     </header>
 
